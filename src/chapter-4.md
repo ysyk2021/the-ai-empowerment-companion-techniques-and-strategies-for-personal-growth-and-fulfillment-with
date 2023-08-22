@@ -1,5 +1,4 @@
-Chapter 3: Developing Positive Habits with Chatbots
-===================================================
+
 
 In this chapter, we will discuss the use of chatbots for developing positive habits, including personalized reminders and accountability tools.
 

@@ -1,4 +1,4 @@
-# Types of AI: natural language processing, machine learning, and deep learning
+
 
 Artificial intelligence (AI) technology has several subfields that are used for various applications. In this chapter, we will explore three types of AI that are commonly used for personal empowerment: natural language processing (NLP), machine learning, and deep learning.
 

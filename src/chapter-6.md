@@ -1,5 +1,4 @@
-Chapter 5: Learning New Skills with AI
-======================================
+
 
 In this chapter, we will discuss the use of AI for learning new skills, including language learning and professional development.
 
