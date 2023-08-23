@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) has the potential to enhance creativity and innovation by providing personalized recommendations and tools for creative processes. In this chapter, we will explore how AI can be used to support creative idea generation and design assistance.
 
 Creative Idea Generation with AI

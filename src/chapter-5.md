@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss the use of AI for managing stress and improving mental health, including mindfulness exercises and cognitive-behavioral therapy techniques.
 
 Use of AI for Managing Stress and Improving Mental Health

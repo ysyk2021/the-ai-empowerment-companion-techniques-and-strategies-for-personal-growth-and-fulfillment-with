@@ -1,5 +1,4 @@
 
-
 While chatbots offer a powerful tool for developing positive habits, there are potential limitations and ethical considerations that individuals should be aware of. In this chapter, we will explore some of these limitations and ethical considerations.
 
 Limitations

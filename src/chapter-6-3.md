@@ -1,5 +1,4 @@
 
-
 While artificial intelligence (AI) has the potential to revolutionize skill development and knowledge acquisition, there are also potential limitations and ethical considerations to be aware of. In this chapter, we will explore some of these issues.
 
 Limitations of AI for Skill Development
