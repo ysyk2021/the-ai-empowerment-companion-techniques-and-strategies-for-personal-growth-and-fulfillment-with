@@ -1,5 +1,4 @@
-Chapter 12: Discussion of Ethical Considerations When Using AI for Personal Empowerment
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the ethical considerations that arise when utilizing AI for personal empowerment. While AI technology offers tremendous potential for enhancing personal growth and fulfillment, it is essential to navigate its use with a strong ethical foundation, ensuring that AI remains a tool for empowerment without compromising individual rights or perpetuating harm.
 

@@ -1,5 +1,4 @@
-Chapter 7: Use of AI for Managing Stress and Improving Mental Health
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the use of AI for managing stress and improving mental health. AI technologies have the potential to support individuals in their journey towards well-being by offering mindfulness exercises and cognitive-behavioral therapy (CBT) techniques. This chapter delves into the ways AI can assist in stress reduction, promote mindfulness, and facilitate CBT strategies for personal growth and fulfillment.
 

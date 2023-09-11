@@ -1,5 +1,4 @@
-Chapter 8: Potential Limitations and Ethical Considerations in Using Chatbots for Habit Formation
-=================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the potential limitations and ethical considerations that arise when utilizing chatbots for habit formation. While chatbots can be powerful tools for developing positive habits, it is important to acknowledge and address the challenges and ethical implications associated with their use. This chapter provides insights into the potential limitations of chatbots in habit formation and highlights key ethical considerations that must be carefully navigated.
 

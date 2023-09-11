@@ -1,5 +1,4 @@
-Chapter 6: Use of AI for Learning New Skills, Including Language Learning and Professional Development
-======================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the ways in which artificial intelligence can be used to facilitate learning new skills, with a special focus on language learning and professional development. The advancements in AI technologies offer exciting opportunities for personalized and efficient skill acquisition. This chapter explores the benefits, strategies, and considerations for leveraging AI in learning new skills.
 

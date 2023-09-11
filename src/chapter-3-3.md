@@ -1,5 +1,4 @@
-Chapter 10: Addressing Potential Challenges and Ethical Considerations in Using AI for Goal Setting and Tracking
-================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will address the potential challenges and ethical considerations that arise when using AI for goal setting and tracking. While AI can be a valuable tool in helping individuals achieve their goals and foster personal growth, it is essential to navigate these considerations responsibly. This chapter explores key challenges and strategies for addressing ethical implications related to AI-driven goal setting and tracking.
 

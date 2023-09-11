@@ -1,5 +1,4 @@
-Chapter 12: Potential Limitations and Ethical Considerations in Using AI for Skill Development
-==============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the potential limitations and ethical considerations that arise when utilizing AI for skill development. While artificial intelligence offers numerous benefits in enhancing learning experiences, it is important to acknowledge and address the challenges and ethical implications associated with its use. This chapter provides insights into the potential limitations of AI in skill development and highlights key ethical considerations that must be carefully navigated.
 

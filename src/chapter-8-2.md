@@ -1,5 +1,4 @@
-Chapter 8: Addressing Potential Biases in AI Algorithms
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of addressing potential biases in AI algorithms and techniques and strategies for ensuring fairness, equality, and inclusivity. As AI becomes increasingly integrated into our lives, it is crucial to address biases to prevent discriminatory outcomes and promote ethical AI development.
 

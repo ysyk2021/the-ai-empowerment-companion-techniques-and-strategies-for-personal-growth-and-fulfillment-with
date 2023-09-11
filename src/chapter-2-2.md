@@ -1,5 +1,4 @@
-Chapter 3: Types of AI: Natural Language Processing, Machine Learning, and Deep Learning
-========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the different types of AI technology: natural language processing (NLP), machine learning (ML), and deep learning (DL). Understanding these AI methods is essential for harnessing their power in personal growth and fulfillment. This chapter provides an overview of NLP, ML, and DL, highlighting their applications and implications in empowering individuals.
 

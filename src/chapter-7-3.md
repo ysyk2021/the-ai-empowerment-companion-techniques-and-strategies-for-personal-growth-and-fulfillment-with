@@ -1,5 +1,4 @@
-Chapter 12: Addressing Ethical Considerations in Using AI for Creative Empowerment
-==================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will focus on the ethical considerations that arise when using AI for creative empowerment. While AI offers tremendous potential to enhance creativity and enable personal growth, it is crucial to address ethical implications to ensure responsible and empowering utilization of AI technologies. This chapter explores key ethical considerations and strategies for incorporating ethics into the use of AI for creative endeavors.
 

@@ -1,5 +1,4 @@
-Chapter 6: Use of AI for Setting and Tracking Progress towards Personal Empowerment Goals
-=========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the use of AI for setting and tracking progress towards personal empowerment goals. AI technologies can assist individuals in identifying their strengths, areas for growth, and aspirations, while providing personalized strategies and tracking mechanisms to support their journey towards personal empowerment. This chapter delves into how AI can act as a valuable companion in setting and tracking progress towards personal empowerment goals.
 

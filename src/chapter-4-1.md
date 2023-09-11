@@ -1,5 +1,4 @@
-Chapter 10: Use of Chatbots for Developing Positive Habits, Including Personalized Reminders and Accountability Tools
-=====================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how chatbots can be utilized as powerful tools for developing positive habits and fostering personal growth and fulfillment. Chatbots, powered by artificial intelligence, offer personalized reminders, accountability, and support to individuals striving to establish and maintain positive habits. This chapter delves into the benefits and strategies of leveraging chatbots in habit formation and provides insights on their effective implementation.
 
